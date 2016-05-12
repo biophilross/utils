@@ -1,3 +1,3 @@
-# Utils
+# Personal Code Utils
 
-Helpful personal scripts, functions, etc.
+Code to help with writing more complex scripts in R and python. No guarantee in terms of dependencies.
